@@ -125,7 +125,7 @@ Github: [https://github.com/willjduncan](https://github.com/willjduncan)
         
 MIT License
 
-Copyright (c) [2022] [willjduncan, rbenne30, and Obtains]
+Copyright (c) [2022] [willjduncan]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
